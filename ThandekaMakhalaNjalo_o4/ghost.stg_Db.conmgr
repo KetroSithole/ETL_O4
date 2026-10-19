@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ghost.stg_Db"
+  DTS:DTSID="{C0023BF6-C09D-4072-81C2-0144E36408F4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=ghost;Initial Catalog=stg_Db;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-ThandekaMakhalaNjalo_o4-{C0023BF6-C09D-4072-81C2-0144E36408F4}ghost.stg_Db;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
